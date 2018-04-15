@@ -1,21 +1,22 @@
-yz4552
-*   b18ed59 3st commit on m_b_b(9), 2st merge from m_b to m_b_b
+yc2554
+*   f11dfe3 9th commit (5th commit on master)
 |\  
-| *   5c346f0 3st commit on m_b(8), 2st merge from master to m_b
+| *   497b7ee 8th commit (3rd commit on b1)
 | |\  
-| | * 8f99746 3st commit on master(7)
-* | |   b18a3ca 2st commit on m_b_b(6), 1st merge from m_b to m_b_b
+| * | 1818bbe 5th commit (2rd commit on b1)
+* | |   2734f32 7th commit (4th commit on master)
 |\ \ \  
-| |/ /  
-| * |   7d40ca1 2st commit on m_b(5), 1st merge from master to m_b
+| | |/  
+| |/|   
+| * |   5208c92 4th commit (1st commit on b2)
 | |\ \  
 | | |/  
-| | * 5b40e55 2st commit on master(4)
-* | | 2e47695 1st commit on m_b_b(3)
+| | * 6510aca 2nd commit (1st on b1)
+* | | eaf8c71 6th commit (3rd commit on master)
 |/ /  
-* | 14b9f37 1st commit on m_b(2)
+* | ed9b342 3rd commit (2st on master)
 |/  
-* 0ae236d 1st commit on master(1)
+* a0f2dcf 1th commit (1st on master).
 
 zw1365
 *   ec8a3f0 9th commit (5th on master)
